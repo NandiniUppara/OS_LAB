@@ -1,10 +1,10 @@
 # OS_LAB
 operating system lab
-# BASIC LINUX COMMANDS
-## General command outputs
+#BASIC LINUX COMMANDS
+##General command outputs
 ### bc command output
 ![bc command output](bc.png)
-![manual command](manbc.png)
+![manual command manual](manbc.png)
 ### cp command output
 ![cp command output](cp.png)
 ![manual command](mancp.png)
